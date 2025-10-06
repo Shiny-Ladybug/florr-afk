@@ -1,0 +1,94 @@
+{
+    "version": "5.6.0",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "path",
+            "points": [
+                [
+                    1.0,
+                    71.0
+                ],
+                [
+                    1.0,
+                    118.0
+                ],
+                [
+                    14.0,
+                    116.0
+                ],
+                [
+                    24.0,
+                    107.0
+                ],
+                [
+                    27.0,
+                    101.0
+                ],
+                [
+                    27.0,
+                    88.0
+                ],
+                [
+                    25.0,
+                    83.0
+                ],
+                [
+                    20.0,
+                    77.0
+                ],
+                [
+                    11.0,
+                    71.0
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "polygon",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "path",
+            "points": [
+                [
+                    216.0,
+                    436.0
+                ],
+                [
+                    202.0,
+                    444.0
+                ],
+                [
+                    195.0,
+                    451.0
+                ],
+                [
+                    195.0,
+                    454.0
+                ],
+                [
+                    267.0,
+                    454.0
+                ],
+                [
+                    258.0,
+                    444.0
+                ],
+                [
+                    244.0,
+                    436.0
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "polygon",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "../images/1759770725.png",
+    "imageData": null,
+    "imageHeight": 455,
+    "imageWidth": 456
+}

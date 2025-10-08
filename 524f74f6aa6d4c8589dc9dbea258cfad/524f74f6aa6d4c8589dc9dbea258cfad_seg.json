@@ -1,0 +1,56 @@
+{
+    "version": "5.6.0",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "path",
+            "points": [
+                [
+                    161.0,
+                    77.0
+                ],
+                [
+                    68.0,
+                    168.0
+                ],
+                [
+                    67.0,
+                    175.0
+                ],
+                [
+                    72.0,
+                    181.0
+                ],
+                [
+                    80.0,
+                    181.0
+                ],
+                [
+                    83.0,
+                    179.0
+                ],
+                [
+                    172.0,
+                    90.0
+                ],
+                [
+                    173.0,
+                    81.0
+                ],
+                [
+                    169.0,
+                    77.0
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "polygon",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "../images/1759904926.png",
+    "imageData": null,
+    "imageHeight": 251,
+    "imageWidth": 199
+}

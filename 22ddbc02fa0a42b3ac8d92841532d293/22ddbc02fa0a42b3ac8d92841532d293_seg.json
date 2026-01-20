@@ -1,0 +1,116 @@
+{
+    "version": "5.6.0",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "path",
+            "points": [
+                [
+                    210.0,
+                    41.0
+                ],
+                [
+                    209.0,
+                    108.0
+                ],
+                [
+                    211.0,
+                    110.0
+                ],
+                [
+                    226.0,
+                    109.0
+                ],
+                [
+                    229.0,
+                    105.0
+                ],
+                [
+                    228.0,
+                    41.0
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "polygon",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "path",
+            "points": [
+                [
+                    71.0,
+                    209.0
+                ],
+                [
+                    69.0,
+                    212.0
+                ],
+                [
+                    69.0,
+                    231.0
+                ],
+                [
+                    57.0,
+                    231.0
+                ],
+                [
+                    52.0,
+                    236.0
+                ],
+                [
+                    52.0,
+                    240.0
+                ],
+                [
+                    89.0,
+                    239.0
+                ],
+                [
+                    88.0,
+                    209.0
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "polygon",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "path",
+            "points": [
+                [
+                    210.0,
+                    181.0
+                ],
+                [
+                    210.0,
+                    240.0
+                ],
+                [
+                    227.0,
+                    240.0
+                ],
+                [
+                    229.0,
+                    238.0
+                ],
+                [
+                    228.0,
+                    181.0
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "polygon",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "../images/1768913685.png",
+    "imageData": null,
+    "imageHeight": 283,
+    "imageWidth": 281
+}

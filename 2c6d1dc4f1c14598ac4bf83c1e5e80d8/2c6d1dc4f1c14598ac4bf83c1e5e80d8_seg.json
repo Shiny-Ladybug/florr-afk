@@ -1,0 +1,92 @@
+{
+    "version": "5.6.0",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "path",
+            "points": [
+                [
+                    109.0,
+                    101.0
+                ],
+                [
+                    108.0,
+                    104.0
+                ],
+                [
+                    101.0,
+                    109.0
+                ],
+                [
+                    109.0,
+                    109.0
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "polygon",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "path",
+            "points": [
+                [
+                    1.0,
+                    105.0
+                ],
+                [
+                    1.0,
+                    109.0
+                ],
+                [
+                    7.0,
+                    109.0
+                ],
+                [
+                    4.0,
+                    108.0
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "polygon",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "path",
+            "points": [
+                [
+                    101.0,
+                    1.0
+                ],
+                [
+                    103.0,
+                    1.0
+                ],
+                [
+                    108.0,
+                    6.0
+                ],
+                [
+                    109.0,
+                    10.0
+                ],
+                [
+                    109.0,
+                    1.0
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "polygon",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "../images/1769326738.png",
+    "imageData": null,
+    "imageHeight": 110,
+    "imageWidth": 110
+}

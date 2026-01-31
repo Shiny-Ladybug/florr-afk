@@ -6,6 +6,11 @@ __pycache__/
 # C extensions
 *.so
 
+# Gallery annotation dzi files
+gallery_annotations/
+gallery_annotations.dzi_files/
+gallery_annotations.*
+gallery_annotations.dzi.dzi
 
 # Distribution / packaging
 .Python
